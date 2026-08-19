@@ -1,0 +1,15 @@
+## What I Learned
+
+- Creating repositories on GitHub
+- Cloning repositories using git clone
+- Uploading changes with git push
+- Downloading updates with git pull
+- Creating and using branches
+- Understanding pull requests
+- Using Bash commands in the terminal
+- Basic Git commands such as:
+  - git init
+  - git add
+  - git commit
+  - git push
+  - git pull
